@@ -1,6 +1,6 @@
 # Date and Asset Filtering Script
 
-This repository contains a Python script to filter and format data from a Qualys Scorecard CSV file. The script ensures that the 'Target Remediation Date' column is in the `MM/DD/YYYY` format and removes excluded assets based on an exclusion list.
+This repository contains a Python script to filter and format data from a Qualys Scorecard CSV file. The script ensures that the 'Target Remediation Date' column is in the MM/DD/YYYY format, checks the dates to include only today and future dates, and removes excluded assets based on an exclusion list.
 
 ## Prerequisites
 
