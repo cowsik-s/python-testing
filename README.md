@@ -16,7 +16,7 @@ pip install pandas
 ## Files
 - Qualys Scorecard.csv: The input CSV file containing the Qualys Scorecard data.
 - Exclusion_List.csv: The CSV file containing the list of assets to be excluded.
-- filter_scorecard.py: The Python script to filter and format the Qualys Scorecard data.
+- date_filter_exclude_assets.py: The Python script to filter and format the Qualys Scorecard data.
 
 ## Usage
 Prepare the Input Files:
